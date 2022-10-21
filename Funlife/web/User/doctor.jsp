@@ -55,13 +55,14 @@
                         <div class="col-lg-5 align-self-center">
                             <div class="welcome-img">
                                 <img src="./User/assets/images/welcome.png" alt="">
-                                <p> Likes: <i class="fa fa-heart" aria-hidden="true"></i> 3    Case: <i class="fa fa-user-circle-o" aria-hidden="true"></i> 9
-                                    Exp: <i class="fa fa-address-card-o" aria-hidden="true"></i> 20 
-                                </p>
+
                             </div>
                         </div>
                         <div class="col-lg-7">
                             <div class="welcome-text mt-5 mt-lg-0">
+                                <h3 style="color: #9E6FAE"> Likes: <i class="fa fa-heart" aria-hidden="true"></i> 3    Case: <i class="fa fa-user-circle-o" aria-hidden="true"></i> 9
+                                    Exp: <i class="fa fa-address-card-o" aria-hidden="true"></i> 20 
+                                </h3>
                                 <h2>Tiến Sỹ Bùi Thị Thu Hương</h2>
                                 <p class="pt-3">Over 7 years of experience in headhunting services, I am responsible for covering executive search at Navigos Search - a leading headhunting firm in Vietnam.
                                     I am happy to support you with advice on self-awareness, career development, talent acquisition strategies, and headhunting services.</p>
@@ -81,6 +82,22 @@
                                 <h2>Bằng cấp</h2>
                                 <p>Green above he cattle god saw day multiply under fill in the cattle fowl a all, living, tree
                                     word link available in the service for subdue fruit.</p>
+                                <h2>Các gói giải pháp</h2>
+                                <table >
+                                    <tr>
+                                        <td style="padding: 5px;"><p>Tham vấn/ tư vấn 1 buổi: 800.000 VND  </p></td>
+                                        <td><a href="#" class="template-btn">Đặt lịch </a></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 5px;"> <p>Tham vấn/ tư vấn gói 1 tháng : 3.000.000 VND  </p></td>
+                                        <td><a href="#" class="template-btn">Đặt lịch </a></td>
+
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 5px;"><p>Tham vấn/ tư vấn gói 3 tháng : 8.000.000 VND  </p></td>
+                                        <td><a href="#" class="template-btn">Đặt lịch </a></td>
+                                    </tr>
+                                </table>
                             </div>
                         </div>
                     </div>
@@ -111,7 +128,7 @@
                         </div>
                         <div class="col-lg-5 offset-lg-1 align-self-center">
                             <div class="appointment-form text-center mt-5 mt-lg-0">
-                                <h3 class="mb-5">appointment now</h3>
+                                <h3 class="mb-5">Đặt lịch ngay</h3>
                                 <form action="#">
                                     <div class="form-group">
                                         <input type="text" placeholder="Your Name" onfocus="this.placeholder = ''"

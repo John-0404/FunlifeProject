@@ -1,3 +1,5 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+
 <!-- Header Area Starts -->
 <header class="header-area">
     <div class="header-top">
@@ -30,13 +32,13 @@
                 </div>
                 <nav id="nav-menu-container">
                     <ul class="nav-menu">
-                        <li class="menu-active"><a href="index.html">Home</a></li>
-                        <li><a href="departments.html">Ki?m tra</a></li>
-                        <li><a href="doctors.html">Chuyên gia</a></li>
-                        <li><a href="doctors.html">Blog</a></li>
-                        <li><a href="doctors.html">Radio</a></li>
+                        <li class="menu-active"><a href="home">Home</a></li>
+                        <li><a href="#">Kiá»ƒm tra</a></li>
+                        <li><a href="doctorlist">ChuyÃªn gia</a></li>
+                        <li><a href="bloglist">Blog</a></li>
+                        <li><a href="#">Radio</a></li>
 <!--
-                        <li class="menu-has-children"><a href="">Khác</a>
+                        <li class="menu-has-children"><a href="">KhÃ¡c</a>
                             <ul>
                                 <li><a href="about.html">Blog</a></li>
                                 <li><a href="elements.html">Radio</a></li>
@@ -48,9 +50,9 @@
                                 <li><a href="blog-details.html">blog details</a></li>
                             </ul>
                         </li>-->
-                        <li><a href="contact.html">Contact</a></li>			          				          
-                        <li><a href="contact.html">Login</a></li>			          				          
-                        <li><a href="contact.html">Register</a></li>			          				          
+                        <li><a href="contact">Contact</a></li>			          				          
+                        <li><a href="login">Login</a></li>			          				          
+                        <li><a href="register">Register</a></li>			          				          
                     </ul>
                 </nav><!-- #nav-menu-container -->		    		
             </div>

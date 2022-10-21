@@ -12,7 +12,7 @@
         <link rel="shortcut icon" href="./User/assets/images/logo/favicon.png" type="image/x-icon">
 
         <!-- CSS Files -->
-        <link rel="stylesheet" href="./User/assets/css/animate-3.7.0.css">
+        <link rel="stylesheet" href="./User/assets/css/animate.css">
         <link rel="stylesheet" href="./User/assets/css/font-awesome-4.7.0.min.css">
         <link rel="stylesheet" href="./User/assets/css/bootstrap-4.1.3.min.css">
         <link rel="stylesheet" href="./User/assets/css/owl-carousel.min.css">
@@ -51,6 +51,8 @@
                         <div class="col-lg-12">
                             <div class="row">
                                 <div class="col-md-6"> <h1 >Login</h1></div>
+                                <h2 class="animate__animated animate__backInDown">Ph?n h?i t? khách hàng</h2>
+
                                 <div class="col-md-6"> <h1  >Register</h1></div>
                             </div>
 

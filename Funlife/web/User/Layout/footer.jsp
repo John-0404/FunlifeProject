@@ -1,3 +1,4 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 
     <!-- Footer Area Starts -->
     <footer class="footer-area section-padding">

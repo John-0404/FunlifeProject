@@ -93,14 +93,14 @@
                                         <h6>sr. faculty data science</h6>
                                     </div>
                                     <div class="doctor-text text-center">
-                                        <p>If you are looking at blank cassettes on the web, you may be very confused at the.</p>
+                                        <p>Bác sỹ a với 15 năm kinh nghiệm trong ngành tâm lý học. Với rất nhiều ca bệnh từ khó đến dễ.</p>
                                         <ul class="doctor-icon">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                                         </ul>
-                                        <a href="#" class="template-btn">Đặt lịch ngay</a>
+                                        <a href="doctor" class="template-btn">Xem thêm</a>
                                     </div>
                                 </div>
                             </div>
@@ -116,7 +116,7 @@
                                         <h6>sr. faculty plastic surgery</h6>
                                     </div>
                                     <div class="doctor-text text-center">
-                                        <p>If you are looking at blank cassettes on the web, you may be very confused at the.</p>
+                                        <p>Bác sỹ a với 15 năm kinh nghiệm trong ngành tâm lý học. Với rất nhiều ca bệnh từ khó đến dễ.</p>
                                         <ul class="doctor-icon">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -124,7 +124,7 @@
                                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
 
                                         </ul>
-                                        <a href="#" class="template-btn">Đặt lịch ngay</a>
+                                        <a href="doctor" class="template-btn">Xem thêm</a>
                                     </div>
                                 </div>
                             </div>
@@ -140,14 +140,14 @@
                                         <h6>sr. faculty data science</h6>
                                     </div>
                                     <div class="doctor-text text-center">
-                                        <p>If you are looking at blank cassettes on the web, you may be very confused at the.</p>
+                                        <p>Bác sỹ a với 15 năm kinh nghiệm trong ngành tâm lý học. Với rất nhiều ca bệnh từ khó đến dễ.</p>
                                         <ul class="doctor-icon">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                                         </ul>
-                                        <a href="#" class="template-btn">Đặt lịch ngay</a>
+                                        <a href="doctor" class="template-btn">Xem thêm</a>
 
                                     </div>
                                 </div>
@@ -164,14 +164,14 @@
                                         <h6>sr. faculty plastic surgery</h6>
                                     </div>
                                     <div class="doctor-text text-center">
-                                        <p>If you are looking at blank cassettes on the web, you may be very confused at the.</p>
+                                        <p>Bác sỹ a với 15 năm kinh nghiệm trong ngành tâm lý học. Với rất nhiều ca bệnh từ khó đến dễ.</p>
                                         <ul class="doctor-icon">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                                         </ul>
-                                        <a href="#" class="template-btn">Đặt lịch ngay</a>
+                                        <a href="doctor" class="template-btn">Xem thêm</a>
 
                                     </div>
                                 </div>
@@ -188,14 +188,14 @@
                                         <h6>sr. faculty data science</h6>
                                     </div>
                                     <div class="doctor-text text-center">
-                                        <p>If you are looking at blank cassettes on the web, you may be very confused at the.</p>
+                                        <p>Bác sỹ a với 15 năm kinh nghiệm trong ngành tâm lý học. Với rất nhiều ca bệnh từ khó đến dễ.</p>
                                         <ul class="doctor-icon">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                                         </ul>
-                                        <a href="#" class="template-btn">Đặt lịch ngay</a>
+                                        <a href="doctor" class="template-btn">Xem thêm</a>
                                     </div>
                                 </div>
                             </div>
@@ -211,7 +211,7 @@
                                         <h6>sr. faculty plastic surgery</h6>
                                     </div>
                                     <div class="doctor-text text-center">
-                                        <p>If you are looking at blank cassettes on the web, you may be very confused at the.</p>
+                                        <p>Bác sỹ a với 15 năm kinh nghiệm trong ngành tâm lý học. Với rất nhiều ca bệnh từ khó đến dễ.</p>
                                         <ul class="doctor-icon">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -219,7 +219,7 @@
                                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
 
                                         </ul>
-                                        <a href="#" class="template-btn">Đặt lịch ngay</a>
+                                        <a href="doctor" class="template-btn">Xem thêm</a>
                                     </div>
                                 </div>
                             </div>
@@ -235,14 +235,14 @@
                                         <h6>sr. faculty data science</h6>
                                     </div>
                                     <div class="doctor-text text-center">
-                                        <p>If you are looking at blank cassettes on the web, you may be very confused at the.</p>
+                                        <p>Bác sỹ a với 15 năm kinh nghiệm trong ngành tâm lý học. Với rất nhiều ca bệnh từ khó đến dễ.</p>
                                         <ul class="doctor-icon">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                                         </ul>
-                                        <a href="#" class="template-btn">Đặt lịch ngay</a>
+                                        <a href="doctor" class="template-btn">Xem thêm</a>
 
                                     </div>
                                 </div>
@@ -259,14 +259,14 @@
                                         <h6>sr. faculty plastic surgery</h6>
                                     </div>
                                     <div class="doctor-text text-center">
-                                        <p>If you are looking at blank cassettes on the web, you may be very confused at the.</p>
+                                        <p>Bác sỹ a với 15 năm kinh nghiệm trong ngành tâm lý học. Với rất nhiều ca bệnh từ khó đến dễ.</p>
                                         <ul class="doctor-icon">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                                         </ul>
-                                        <a href="#" class="template-btn">Đặt lịch ngay</a>
+                                        <a href="doctor" class="template-btn">Xem thêm</a>
 
                                     </div>
                                 </div>
@@ -283,14 +283,14 @@
                                         <h6>sr. faculty data science</h6>
                                     </div>
                                     <div class="doctor-text text-center">
-                                        <p>If you are looking at blank cassettes on the web, you may be very confused at the.</p>
+                                        <p>Bác sỹ a với 15 năm kinh nghiệm trong ngành tâm lý học. Với rất nhiều ca bệnh từ khó đến dễ.</p>
                                         <ul class="doctor-icon">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                                         </ul>
-                                        <a href="#" class="template-btn">Đặt lịch ngay</a>
+                                        <a href="doctor" class="template-btn">Xem thêm</a>
                                     </div>
                                 </div>
                             </div>
@@ -306,7 +306,7 @@
                                         <h6>sr. faculty plastic surgery</h6>
                                     </div>
                                     <div class="doctor-text text-center">
-                                        <p>If you are looking at blank cassettes on the web, you may be very confused at the.</p>
+                                        <p>Bác sỹ a với 15 năm kinh nghiệm trong ngành tâm lý học. Với rất nhiều ca bệnh từ khó đến dễ.</p>
                                         <ul class="doctor-icon">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -314,7 +314,7 @@
                                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
 
                                         </ul>
-                                        <a href="#" class="template-btn">Đặt lịch ngay</a>
+                                        <a href="doctor" class="template-btn">Xem thêm</a>
                                     </div>
                                 </div>
                             </div>
@@ -330,14 +330,14 @@
                                         <h6>sr. faculty data science</h6>
                                     </div>
                                     <div class="doctor-text text-center">
-                                        <p>If you are looking at blank cassettes on the web, you may be very confused at the.</p>
+                                        <p>Bác sỹ a với 15 năm kinh nghiệm trong ngành tâm lý học. Với rất nhiều ca bệnh từ khó đến dễ.</p>
                                         <ul class="doctor-icon">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                                         </ul>
-                                        <a href="#" class="template-btn">Đặt lịch ngay</a>
+                                        <a href="doctor" class="template-btn">Xem thêm</a>
 
                                     </div>
                                 </div>
@@ -354,32 +354,40 @@
                                         <h6>sr. faculty plastic surgery</h6>
                                     </div>
                                     <div class="doctor-text text-center">
-                                        <p>If you are looking at blank cassettes on the web, you may be very confused at the.</p>
+                                        <p>Bác sỹ a với 15 năm kinh nghiệm trong ngành tâm lý học. Với rất nhiều ca bệnh từ khó đến dễ.</p>
                                         <ul class="doctor-icon">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                                         </ul>
-                                        <a href="#" class="template-btn">Đặt lịch ngay</a>
+                                        <a href="doctor" class="template-btn">Xem thêm</a>
 
                                     </div>
                                 </div>
                             </div>  
                         </div>
                     </div>
-                    <nav aria-label="..." style="margin-left: 40%; margin-top: 20px;">
+                    <nav class="blog-pagination justify-content-center d-flex">
                         <ul class="pagination">
-                            <li class="page-item disabled">
-                                <a class="page-link" href="#" tabindex="-1">Previous</a>
-                            </li>
-                            <li class="page-item"><a class="page-link" href="#">1</a></li>
-                            <li class="page-item active">
-                                <a class="page-link" href="#">2 <span class="sr-only">(current)</span></a>
-                            </li>
-                            <li class="page-item"><a class="page-link" href="#">3</a></li>
                             <li class="page-item">
-                                <a class="page-link" href="#">Next</a>
+                                <a href="#" class="page-link" aria-label="Previous">
+                                    <span aria-hidden="true">
+                                        <span class="fa fa-angle-left"></span>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="page-item"><a href="#" class="page-link">01</a></li>
+                            <li class="page-item active"><a href="#" class="page-link">02</a></li>
+                            <li class="page-item"><a href="#" class="page-link">03</a></li>
+                            <li class="page-item"><a href="#" class="page-link">04</a></li>
+                            <li class="page-item"><a href="#" class="page-link">09</a></li>
+                            <li class="page-item">
+                                <a href="#" class="page-link" aria-label="Next">
+                                    <span aria-hidden="true">
+                                        <span class="fa fa-angle-right"></span>
+                                    </span>
+                                </a>
                             </li>
                         </ul>
                     </nav>

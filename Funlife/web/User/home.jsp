@@ -16,9 +16,12 @@
 
         <!-- Favicon -->
         <link rel="shortcut icon" href="./User/assets/images/logo/favicon.png" type="image/x-icon">
+        <!-- AOSS -->
 
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
         <!-- CSS Files -->
-        <link rel="stylesheet" href="./User/assets/css/animate-3.7.0.css">
+        <link rel="stylesheet" href="./User/assets/css/animate.css">
         <link rel="stylesheet" href="./User/assets/css/font-awesome-4.7.0.min.css">
         <link rel="stylesheet" href="./User/assets/css/bootstrap-4.1.3.min.css">
         <link rel="stylesheet" href="./User/assets/css/owl-carousel.min.css">
@@ -35,16 +38,18 @@
         <!-- Preloader End -->
 
         <jsp:include page="./Layout/header.jsp"></jsp:include>
-
+            <script>
+                AOS.init();
+            </script>
             <!-- Banner Area Starts -->
             <section class="banner-area">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5">
-                            <h4>Funlife Caring for better life</h4>
-                            <h1>Dẫn đầu về chất lượng</h1>
-                            <p>Cam kết về chất lượng. Đảm bảo về uy tín và luôn bên cạnh bạn 24/7</p>
-                            <a href="" class="template-btn mt-3">Đặt lịch ngay</a>
+                            <h4 class="animate__animated animate__backInDown">Funlife Caring for better life</h4>
+                            <h1 class="animate__animated animate__backInDown animate__delay-1s" >Dẫn đầu về chất lượng</h1>
+                            <p class="animate__animated animate__backInDown animate__delay-2s">Cam kết về chất lượng. Đảm bảo về uy tín và luôn bên cạnh bạn 24/7</p>
+                            <a href="" class="template-btn mt-3 animate__animated animate__backInDown animate__delay-3s">Đặt lịch ngay</a>
                         </div>
                     </div>
                 </div>
@@ -52,7 +57,7 @@
             <!-- Banner Area End -->
 
             <!-- Feature Area Starts -->
-            <section class="feature-area section-padding">
+            <section class="feature-area section-padding" >
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-3 col-md-6">
@@ -93,7 +98,7 @@
             <!-- Feature Area End -->
 
             <!-- Welcome Area Starts -->
-            <section class="welcome-area section-padding3">
+            <section class="welcome-area section-padding3" data-aos="fade-right">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5 align-self-center">
@@ -103,7 +108,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="welcome-text mt-5 mt-lg-0">
-                                <h2>Testing tâm lý</h2>
+                                <h2  >Testing tâm lý</h2>
                                 <p class="pt-3">Subdue whales void god which living don't midst lesser yielding over lights
                                     whose. Cattle greater brought sixth fly den dry good tree isn't seed stars were.</p>
                                 <p>Subdue whales void god which living don't midst lesser yielding over lights whose. Cattle
@@ -117,12 +122,12 @@
             <!-- Welcome Area End -->
 
             <!-- Department Area Starts -->
-            <section class="department-area section-padding4">
+            <section class="department-area section-padding4" data-aos="fade-left">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3">
                             <div class="section-top text-center">
-                                <h2>Những dịch vụ phổ biến</h2>
+                                <h2 >Những dịch vụ phổ biến</h2>
                                 <p>Green above he cattle god saw day multiply under fill in the cattle fowl a all, living, tree
                                     word link available in the service for subdue fruit.</p>
                             </div>
@@ -191,12 +196,12 @@
             <!-- Department Area Starts -->
 
             <!-- Patient Area Starts -->
-            <section class="patient-area section-padding">
+            <section class="patient-area section-padding" data-aos="zoom-in-up">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3">
                             <div class="section-top text-center">
-                                <h2>Phản hồi từ khách hàng</h2>
+                                <h2 class=" animate__animated animate__backInDown reveal">Phản hồi từ khách hàng</h2>
                                 <p>Sau quá trình hoạt động Funlife đã thu về những phản hồi rất tích cực từ khách hàng và được hưởng ứng cao</p>
                             </div>
                         </div>
@@ -253,12 +258,12 @@
             <!-- Patient Area Starts -->
 
             <!-- Specialist Area Starts -->
-            <section class="specialist-area section-padding">
+            <section class="specialist-area section-padding"  data-aos="zoom-in-up">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3">
                             <div class="section-top text-center">
-                                <h2>Our specialish</h2>
+                                <h2 >Our specialish</h2>
                                 <p>Green above he cattle god saw day multiply under fill in the cattle fowl a all, living, tree
                                     word link available in the service for subdue fruit.</p>
                             </div>
@@ -271,10 +276,11 @@
                                     <img src="./User/assets/images/doctor1.jpg" alt="" class="img-fluid">
                                 </div>
                                 <div class="content-area">
-                                    <div class="doctor-name text-center">
-                                        <h3>ethel davis</h3>
-                                        <h6>sr. faculty data science</h6>
-                                    </div>
+                                    <a href="doctor">
+                                        <div class="doctor-name text-center">
+                                            <h3>ethel davis</h3>
+                                            <h6>sr. faculty data science</h6>
+                                        </div></a>
                                     <div class="doctor-text text-center">
                                         <p>If you are looking at blank cassettes on the web, you may be very confused at the.
                                         </p>
@@ -294,10 +300,13 @@
                                     <img src="./User/assets/images/doctor2.jpg" alt="" class="img-fluid">
                                 </div>
                                 <div class="content-area">
-                                    <div class="doctor-name text-center">
-                                        <h3>dand mories</h3>
-                                        <h6>sr. faculty plastic surgery</h6>
-                                    </div>
+
+                                    <a href="doctor">
+                                        <div class="doctor-name text-center">
+                                            <h3>dand mories</h3>
+                                            <h6>sr. faculty plastic surgery</h6>
+                                        </div>
+                                    </a>
                                     <div class="doctor-text text-center">
                                         <p>If you are looking at blank cassettes on the web, you may be very confused at the.
                                         </p>
@@ -317,10 +326,12 @@
                                     <img src="./User/assets/images/doctor3.jpg" alt="" class="img-fluid">
                                 </div>
                                 <div class="content-area">
-                                    <div class="doctor-name text-center">
-                                        <h3>align board</h3>
-                                        <h6>sr. faculty data science</h6>
-                                    </div>
+                                    <a href="doctor">
+                                        <div class="doctor-name text-center">
+                                            <h3>align board</h3>
+                                            <h6>sr. faculty data science</h6>
+                                        </div>
+                                    </a>
                                     <div class="doctor-text text-center">
                                         <p>If you are looking at blank cassettes on the web, you may be very confused at the.
                                         </p>
@@ -340,10 +351,12 @@
                                     <img src="./User/assets/images/doctor4.jpg" alt="" class="img-fluid">
                                 </div>
                                 <div class="content-area">
-                                    <div class="doctor-name text-center">
-                                        <h3>jeson limit</h3>
-                                        <h6>sr. faculty plastic surgery</h6>
-                                    </div>
+                                    <a href="doctor">
+                                        <div class="doctor-name text-center">
+                                            <h3>jeson limit</h3>
+                                            <h6>sr. faculty plastic surgery</h6>
+                                        </div>
+                                    </a>
                                     <div class="doctor-text text-center">
                                         <p>If you are looking at blank cassettes on the web, you may be very confused at the.
                                         </p>
@@ -365,12 +378,12 @@
 
 
             <!-- News Area Starts -->
-            <section class="news-area section-padding">
+            <section class="news-area section-padding"  data-aos="zoom-in-up">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3">
                             <div class="section-top text-center">
-                                <h2>Recent medical news</h2>
+                                <h2 >Recent medical news</h2>
                                 <p>Green above he cattle god saw day multiply under fill in the cattle fowl a all, living, tree
                                     word link available in the service for subdue fruit.</p>
                             </div>
@@ -437,7 +450,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2>Emergency hotline</h2>
+                            <h2 >Emergency hotline</h2>
                             <span>(+01) – 256 567 550</span>
                             <p class="pt-3">We provide 24/7 customer support. Please feel free to contact us <br>for emergency
                                 case.</p>
@@ -447,12 +460,12 @@
             </section>
             <!-- Hotline Area End -->
             <!-- Core team Starts -->
-            <section class="department-area section-padding4">
+            <section class="department-area section-padding4"  data-aos="zoom-in-up">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3">
                             <div class="section-top text-center">
-                                <h2>Đội ngũ Founder</h2>
+                                <h2 >Đội ngũ Founder</h2>
                                 <p>Đội ngũ core team được thành lập vào tháng 8 năm 2022. Cùng sứ mệnh cung cấp một nền tảng về tư vấn và tham vấn đối với học sinh, sinh viên Việt Nam</p>
                             </div>
                         </div>
@@ -555,6 +568,7 @@
         <script src="./User/assets/js/vendor/jquery.nice-select.min.js"></script>
         <script src="./User/assets/js/vendor/superfish.min.js"></script>
         <script src="./User/assets/js/main.js"></script>
+
     </body>
 
 </html>
